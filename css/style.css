@@ -1,0 +1,72 @@
+* {
+    font-size: 100%;
+}
+
+#container{ 
+background-color:rgb(236, 236, 236);
+width: %95;
+margin:auto;
+}
+
+header{
+background-color: none;
+height:80px;
+text-align: center;
+font-size: 200%;
+font-family:monospace ;
+line-height: 80px;
+}
+
+nav {
+background-color:none;
+border-top-style: ;
+}
+
+nav ul{
+    list-style-type: none;
+    text-align: center;
+}
+
+nav ul li {
+    display: inline block;
+    width: 200px;
+    display: inline-block;
+    
+}
+
+nav ul li a{
+    text-decoration: none;
+    color: rgb(175, 175, 175);
+}
+
+nav ul li a:hover{
+    color: rgb(128, 128, 128);
+}
+
+#menu{
+background-color:blue;
+}
+
+#slider{ 
+background-color: orange;
+}
+
+#duyuru{
+background-color:tomato;
+float: left;
+width: 38%;
+margin:1%;
+}
+
+#hizlierisim{
+background-color:yellow;
+width: 59%;
+float: right;
+margin: 1% 1% 1% 0;
+}
+
+footer{
+    background-color:green;
+    color: darkkhaki;
+    clear: both;
+}

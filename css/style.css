@@ -4,7 +4,7 @@
 
 #container{ 
 background-color:rgb(236, 236, 236);
-width: %95;
+width: 95%;
 margin:auto;
 }
 
@@ -19,7 +19,7 @@ line-height: 80px;
 
 nav {
 background-color:none;
-border-top-style: ;
+
 }
 
 nav ul{

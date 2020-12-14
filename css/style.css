@@ -3,18 +3,19 @@
 }
 
 #container{ 
-background-color:rgb(236, 236, 236);
-width: 95%;
+background-color:0;
+widows: 95%;
 margin:auto;
 }
 
 header{
-background-color: none;
-height:80px;
+
+background-color:wheat ;
+height:60px;
 text-align: center;
 font-size: 200%;
 font-family:monospace ;
-line-height: 80px;
+line-height: 200%;
 }
 
 nav {
@@ -43,30 +44,130 @@ nav ul li a:hover{
     color: rgb(128, 128, 128);
 }
 
-#menu{
-background-color:blue;
-}
 
 #slider{ 
-background-color: orange;
+margin-top: 1px;
+width: 100%;
+
 }
 
-#duyuru{
-background-color:tomato;
-float: left;
-width: 38%;
-margin:1%;
-}
+
 
 #hizlierisim{
-background-color:yellow;
+background-color:rgb(117, 117, 105);
 width: 59%;
 float: right;
-margin: 1% 1% 1% 0;
+margin: 1% 1% 1% 0%;
+
+}
+a{
+    text-decoration: none;
 }
 
+
+
 footer{
-    background-color:green;
-    color: darkkhaki;
+    background-color:rgb(227, 252, 188)20, 243, 220);
+    padding:1% 40%;
+    color:black;
     clear: both;
+
 }
+                                                  /*HAKKIMDA*/
+#hakkimda{
+    background-color:0;    
+    width: 20%;
+    margin:auto;
+}
+
+.hakkimdayazisi{
+    background-color: rgb(0, 221, 140);
+    
+}
+
+#arafotograf{
+    background-color: 0;
+    width: 60%;
+    margin: auto;
+
+}
+
+                                                 /*GALERİ*/
+#baslik{
+    font-size: 300%;
+    font-family:monospace;
+    text-align: center;
+    color: rgba(109, 0, 0, 0.356);
+    
+
+}
+
+
+.altbaslik{
+    font-style: oblique;
+    float: left;
+    width: 100%;
+    font-size: 150%;
+    
+   
+}
+
+.calismalaroncesi{
+    float: left;
+    width: 49%;
+    margin:1% 1% 1% 0;
+background-color: rgb(255, 255, 255);
+
+}
+
+.calismalarsonrasi{
+    width: 49%;
+    float: right;
+    margin: 1% 1% 1% 0;
+background-color: rgb(255, 254, 254);
+
+}
+#altbaslik1{
+   
+}
+                                             /*blog*/
+
+ #kapakfoto{
+   margin:1% ;
+    
+    
+
+ }                                   
+
+#blokyazisi{
+    
+    margin:1% ;
+}
+                                             /*iletisim*/
+   
+
+
+
+    .iletisim{
+        background:0;
+        width: 60%;
+        padding:2%;
+        margin:auto ;
+        float: auto;
+    
+        
+
+    }                    
+    
+    .link{
+        float:right;
+        width: 10%;
+        padding:8% 10% 5% 5%;
+        margin-top: auto;
+        font-size: 100%;
+    }
+    
+    
+
+
+    
